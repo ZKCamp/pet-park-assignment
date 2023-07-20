@@ -60,6 +60,8 @@ Complete the following tests in `test/PetPark.t.sol`
     git clone --recurse-submodules CLONE_URL
     ```
 
+-   Go to your forked repo and under `Actions` make sure that github actions on forked repo are enabled.
+
 -   Install `forge-std` library using the below command
     ```
     forge install foundry-rs/forge-std --no-commit
